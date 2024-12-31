@@ -16,4 +16,4 @@ making sure that things are in the right files accordign to conventions
 
 ## Deployed Link
 
-[text editor]()
+[text editor](https://text-editor-468a.onrender.com)
