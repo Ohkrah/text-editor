@@ -6,6 +6,12 @@ Module 19
 ### file structuring and navigation
 making sure that things are in the right files accordign to conventions
 
+### Render
+issues with site rendering 
+
+### database.js
+trouble understanding the syntax and functionality of the code and how to connect everything
+
 ## Resources
 
 * module 19
